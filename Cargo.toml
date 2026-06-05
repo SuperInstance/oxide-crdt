@@ -1,0 +1,9 @@
+[package]
+name = "oxide-crdt"
+version = "0.1.0"
+edition = "2021"
+description = "GPU-aware CRDT types for distributed Flux→PTX runtime state synchronization. Kernel state, agent assignments, and metrics merge across GPU nodes without coordination."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/oxide-crdt"
+keywords = ["crdt", "gpu", "distributed", "cuda", "flux"]
+categories = ["concurrency", "data-structures"]
